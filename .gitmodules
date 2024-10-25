@@ -1,0 +1,6 @@
+[submodule "piscine/intra-uuid-c7056aec-e646-42e4-a481-224cd8357c89-5815070-machaq"]
+	path = piscine/intra-uuid-c7056aec-e646-42e4-a481-224cd8357c89-5815070-machaq
+	url = git@vogsphere-v2-bg.1337.ma:vogsphere/intra-uuid-c7056aec-e646-42e4-a481-224cd8357c89-5815070-machaq
+[submodule "piscine/piscine/c03"]
+	path = piscine/piscine/c03
+	url = git@vogsphere-v2-bg.1337.ma:vogsphere/intra-uuid-c7056aec-e646-42e4-a481-224cd8357c89-5815070-machaq
